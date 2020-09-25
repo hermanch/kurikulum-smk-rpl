@@ -1,8 +1,8 @@
 <h1>Kurikulum SMK Rekayasa Perangkat Lunak</h1>
 
 <ol>
-  <li><a href="wiki/01-Profil-Lulusan" title="Profil Lulusan">Profil Lulusan</li>
-  <li><a href="wiki/02-KKNI" title="KKNI">KKNI</li>
+  <li><a href="../../wiki/01-Profil-Lulusan" title="Profil Lulusan">Profil Lulusan</li>
+  <li><a href="../wiki/02-KKNI" title="KKNI">KKNI</li>
   <li><a href="wiki/03-Kurikulum" title="Kurikulum">Kurikulum</li>
   <li><a href="wiki/04-Sertifikasi" title="Sertifikasi">Sertifikasi</li>
   <li><a href="wiki/C1.1-Simulasi-dan-Komunikasi-Digital" title="C1.1 Simulasi dan Komunikasi Digital">C1.1 Simulasi dan Komunikasi Digital</li>
