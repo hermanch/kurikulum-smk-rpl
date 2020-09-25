@@ -1,7 +1,6 @@
 <h1>Kurikulum SMK Rekayasa Perangkat Lunak</h1>
 
 <ol>
-  <li><a href="wiki" title="Home">Home</li>
   <li><a href="wiki/01-Profil-Lulusan" title="Profil Lulusan">Profil Lulusan</li>
   <li><a href="wiki/02-KKNI" title="KKNI">KKNI</li>
   <li><a href="wiki/03-Kurikulum" title="Kurikulum">Kurikulum</li>
