@@ -1,139 +1,18 @@
 <h1>Kurikulum SMK Rekayasa Perangkat Lunak</h1>
 
-<h2 id="daftar-isi">Daftar Isi</h2>
-
 <ol>
-  <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
-  <li><a href="#kompetensi" title="Kompetensi">Kompetensi</li>
-  <li><a href="#silabus" title="Silabus">Silabus</li>
-  <li><a href="#materi" title="Materi">Materi</li>
-  <li><a href="#media" title="Materi">Media</li>
-  <li><a href="#sertifikasi" title="Sertifikasi">Sertifikasi</li>
+  <li><a href="wiki" title="Home">Home</li>
+  <li><a href="wiki/01-Profil-Lulusan" title="Profil Lulusan">Profil Lulusan</li>
+  <li><a href="wiki/02-KKNI" title="KKNI">KKNI</li>
+  <li><a href="wiki/03-Kurikulum" title="Kurikulum">Kurikulum</li>
+  <li><a href="wiki/C1.1-Simulasi-dan-Komunikasi-Digital" title="C1.1 Simulasi dan Komunikasi Digital">C1.1 Simulasi dan Komunikasi Digital</li>
+  <li><a href="wiki/C2.1-Sistem-Komputer" title="C1.1 Sistem Komputer">C1.1 Sistem Komputer</li>
+  <li><a href="wiki/C2.2-Komputer-dan-Jaringan-Dasar" title="C2.2 Komputer dan Jaringan Dasar">C2.2 Komputer dan Jaringan Dasar</li>
+  <li><a href="wiki/C2.3-Pemrograman-Dasar" title="C2.3 Pemrograman Dasar">C2.3 Pemrograman Dasar</li>
+  <li><a href="wiki/C2.4-Dasar-Desain-Grafis" title="C2.4 Dasar Desain Grafis">C2.4 Dasar Desain Grafis</li>
+  <li><a href="wiki/C3.1-Pemodelan-Perangkat-Lunak" title="C3.1 Pemodelan Perangkat Lunak">C3.1 Pemodelan Perangkat Lunak</li>
+  <li><a href="wiki/C3.2-Basis-Data" title="C3.2 Basis Data">C3.2 Basis Data</li>
+  <li><a href="wiki/C3.3-Pemrograman-Berorientasi-Obyek" title="C3.3 Pemrograman Berorientasi Obyek">C3.3 Pemrograman Berorientasi Obyek</li>
+  <li><a href="wiki/C3.4-Pemrograman-Web-dan-Mobile" title="C3.4 Pemrograman Web dan Mobile">C3.4 Pemrograman Web dan Mobile</li>
+  <li><a href="wiki/C3.5-Produk-Kreatif-dan-Kewirausahaan" title="C3.5 Produk Kreatif dan Kewirausahaan">C3.5 Produk Kreatif dan Kewirausahaan</li>
 </ol>
-
-<hr>
-
-<h2 id="Ikhtisar">Ikhtisar</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Programmer</td>
-    </tr>
-    <tr>
-      <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.js.01.000.00.1</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Programmer</td>
-    </tr>
-    <tr>
-      <td><strong>Standar Kompetensi Acuan</strong></td>
-      <td>
-        <ul>
-          <li>Standar Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <li>Standar Kompetensi Internasional</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Skema Sertifikasi Acuan</strong></td>
-      <td>
-        <ul>
-          <li>Sertifikasi KKNI Level II pada Kompetensi Keahlian Rekayasa Perangkat Lunak (KKNI)</li>
-          <li>Sertifikasi Kompetensi Internasional</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Tujuan Pelatihan</strong></td>
-      <td>Peserta meningkatkan kompetensi dalam JavaScript secara profesional</td>
-    </tr>
-    <tr>
-      <td><strong>Sasaran Pelatihan</strong></td>
-      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript secara profesional</td>
-    </tr>
-    <tr>
-      <td><strong>Unit Kompetensi yang ditempuh</strong></td>
-      <td>
-        <ol>
-          <li><strong>ke.js.01.001.00.1</strong> Ekosistem</li>
-          <li><strong>ke.js.01.002.00.1</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.01.003.00.1</strong> Standard dan Best Practice</li>
-          <li><strong>ke.js.01.004.00.1</strong> Comment</li>
-          <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
-          <li><strong>ke.js.01.006.00.1</strong> Tipe Data</li>
-          <li><strong>ke.js.01.007.00.1</strong> Struktur Data</li>
-          <li><strong>ke.js.01.008.00.1</strong> Operator</li>
-          <li><strong>ke.js.01.009.00.1</strong> Conditional</li>
-          <li><strong>ke.js.01.010.00.1</strong> Loop</li>
-          <li><strong>ke.js.01.011.00.1</strong> Function</li>
-          <li><strong>ke.js.01.012.00.1</strong> Debugging</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>225 Jam Pelatihan</td>
-    </tr>
-    <tr>
-      <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
-      <td>
-        <ol>
-          <li>Warga Negara Indonesia</li>
-          <li>Tidak ada batasan umur</li>
-          <li>Tidak ada batasan latar belakang pendidikan</li>
-          <li>Lolos Seleksi Administrasi dan Tes Substansi</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
-      <td>
-        <ol>
-          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
-          <li>Mengikuti Training of Trainer untuk Mentor</li>
-        </ol>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2 id="kompetensi">Kompetensi</h2>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2 id="silabus">Silabus</h2>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2 id="materi">Materi</h2>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2 id="media">Media</h2>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2 id="sertifikasi">Sertifikasi</h2>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
