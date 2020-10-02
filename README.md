@@ -4,7 +4,11 @@
   <li><a href="../../wiki/01-Profil-Lulusan" title="Profil Lulusan">Profil Lulusan</li>
   <li><a href="../../wiki/02-KKNI" title="KKNI">KKNI</li>
   <li><a href="../../wiki/03-Kurikulum" title="Kurikulum">Kurikulum</li>
-  <li><a href="../../wiki/04-Sertifikasi" title="Sertifikasi">Sertifikasi</li>
+  <li><a href="../../wiki/04-Silabus" title="Silabus">Silabus</li>
+  <li><a href="../../wiki/05-RPP" title="RPP">RPP</li>
+  <li><a href="../../wiki/06-Materi" title="Materi">Materi</li>
+  <li><a href="../../wiki/07-Penilaian" title="Penilaian">Penilaian</li>
+  <li><a href="../../wiki/08-Sertifikasi" title="Sertifikasi">Sertifikasi</li>
   <li><a href="../../wiki/C1.1-Simulasi-dan-Komunikasi-Digital" title="C1.1 Simulasi dan Komunikasi Digital">C1.1 Simulasi dan Komunikasi Digital</li>
   <li><a href="../../wiki/C2.1-Sistem-Komputer" title="C1.1 Sistem Komputer">C1.1 Sistem Komputer</li>
   <li><a href="../../wiki/C2.2-Komputer-dan-Jaringan-Dasar" title="C2.2 Komputer dan Jaringan Dasar">C2.2 Komputer dan Jaringan Dasar</li>
