@@ -10,7 +10,7 @@
   <li><a href="../../wiki/07-Penilaian" title="Penilaian">Penilaian</li>
   <li><a href="../../wiki/08-Sertifikasi" title="Sertifikasi">Sertifikasi</li>
   <li><a href="../../wiki/C1.1-Simulasi-dan-Komunikasi-Digital" title="C1.1 Simulasi dan Komunikasi Digital">C1.1 Simulasi dan Komunikasi Digital</li>
-  <li><a href="../../wiki/C2.1-Sistem-Komputer" title="C1.1 Sistem Komputer">C1.1 Sistem Komputer</li>
+  <li><a href="../../wiki/C2.1-Sistem-Komputer" title="C2.1 Sistem Komputer">C2.1 Sistem Komputer</li>
   <li><a href="../../wiki/C2.2-Komputer-dan-Jaringan-Dasar" title="C2.2 Komputer dan Jaringan Dasar">C2.2 Komputer dan Jaringan Dasar</li>
   <li><a href="../../wiki/C2.3-Pemrograman-Dasar" title="C2.3 Pemrograman Dasar">C2.3 Pemrograman Dasar</li>
   <li><a href="../../wiki/C2.4-Dasar-Desain-Grafis" title="C2.4 Dasar Desain Grafis">C2.4 Dasar Desain Grafis</li>
